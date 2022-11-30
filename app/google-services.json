@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "82650949457",
+    "project_id": "proyectofinalveterinaria",
+    "storage_bucket": "proyectofinalveterinaria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82650949457:android:4de3be6a4213544f6b1570",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_final_veterinaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82650949457-5ejm89mr21ejjnmcpe99cbn6sbdo50uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_u7ZmMWk2WSY0xwVgHpvoB-UQnDO-xrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82650949457-5ejm89mr21ejjnmcpe99cbn6sbdo50uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82650949457:android:f41bf8a9093b48b76b1570",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_final_veterinaria.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82650949457-5ejm89mr21ejjnmcpe99cbn6sbdo50uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_u7ZmMWk2WSY0xwVgHpvoB-UQnDO-xrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82650949457-5ejm89mr21ejjnmcpe99cbn6sbdo50uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
