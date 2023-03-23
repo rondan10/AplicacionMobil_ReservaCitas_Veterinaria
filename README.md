@@ -1,4 +1,4 @@
-# AplicacionMobil_ReservaCitas_Veterinaria
+# AplicacionMovil_ReservaCitas_Veterinaria
 Prueba repositorio 
 Android Studio
 Java | Firebase | Figma UI
